@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript" src="currated.js"></script>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Krona+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Krona+One&family=M+PLUS+Rounded+1c:wght@100&family=Vollkorn&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Baloo+2&family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Krona+One&family=M+PLUS+Rounded+1c:wght@100&family=Noticia+Text&family=Vollkorn&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Baloo+2&family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Krona+One&family=M+PLUS+Rounded+1c:wght@100&family=Noticia+Text&family=Philosopher&family=Vollkorn&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="currated.css"></link>
+    </head>
+    <body class="body">
+
+        <div class="topSection">
+            <div id="marqueeAndLights">
+                <div id="wrapper">
+                    <div id="theMarquee"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="movies-menu-section" style="position:relative;">
+            <div id="side-menu">
+                <div title="Movie library"><img id="theatermasks" class="menu-icons" src="../Currated/currated/unnamed-1.jpg"></div>
+                <div title="Random movie"><img id="dice" class="menu-icons" src="../Currated/currated/dice1.jpg"></div>
+                <div title="Color index"><img id="crystal" class="menu-icons" src="../Currated/currated/crystal3.jpg">
+                    <div id="colorIndex" >
+
+                        <div class="oneColor">
+                            <div id="colorBlue" class="color"></div>
+                            <span></span>
+                        </div>
+
+                        <div class="oneColor">
+                            <div id="colorPurple" class="color"></div>
+                            <span></span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+            <div class="movie-list-and-pagination" style="position:absolute;left:20%;">
+                <div id="movie-container" class="hidden">
+                    <div class="movieList movieList1"></div>
+                    <div class="movieList movieList2"></div>
+                    <div class="movieList movieList3"></div>
+                </div>
+
+                <div id="pagination" title="Load movies">
+                    <div><img class="popcorn" src="../Currated/currated/popcorn1.jpg"></div>
+                    <div><img class="popcorn" src="../Currated/currated/popcorn2.jpg"></div>
+                    <div><img class="popcorn" src="../Currated/currated/popcorn3.jpg"></div>
+                </div>
+            </div>
+            
+            <div id="random-movie-container" class="randomMovie"></div>
+        </div>
+        
+    </body>
+</html>
+
