@@ -100,7 +100,7 @@ $(document).ready(function() {
         {"title": "The Great Escape", "director": "John Sturges", "year": 1963, "mood": "", "desc": "The most cunning prison escape ever hands down team effort all the way", "poster": "https://i.pinimg.com/564x/38/a4/65/38a465c40602d166bc2219a2ff81c2bc.jpg"},
         {"title": "Oldboy", "director": "Park Chan-wook", "year": 2003, "mood": "", "desc": "A man imprisoned for 15 years is finally freed only to voluntarily walk into a nightmare", "poster": "https://i.pinimg.com/564x/6d/fd/24/6dfd24c2d677c3dbe1ef83416bee81ff.jpg"},
         {"title": "Midnight in Paris", "director": "Woody Allen", "year": 2011, "mood": "", "desc": "I can never decide whether Paris is more beautiful by day or by night.", "poster": "https://xl.movieposterdb.com/11_04/2011/1605783/xl_1605783_1672137b.jpg"},
-        {"title": "The Undoing", "director": "Susanne Bier", "year": 2020, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/58/4f/0a/584f0a5d2a2f7b18dbfebc3b305a63a6.jpg"},
+        {"title": "The Undoing", "director": "Susanne Bier", "year": 2020, "mood": "", "desc": "Everyone presumes that they know their own family, but I can assure that's not the case", "poster": "https://i.pinimg.com/564x/58/4f/0a/584f0a5d2a2f7b18dbfebc3b305a63a6.jpg"},
         {"title": "Rec", "director": "Jaume Balagueró, Paco Plaza", "year": 2007, "mood": "", "desc": "An outbreak in a single apartment building", "poster": "https://i.pinimg.com/564x/ab/1c/c7/ab1cc70323c446e320e1f212e7a269b4.jpg"},
         {"title": "Booksmart", "director": "Olivia Wilde", "year": 2019, "mood": "", "desc": "Good girls tryna be bad", "poster": "https://i.pinimg.com/474x/39/e0/f0/39e0f0a20d54e14b7016bbd2fef5b5e7.jpg"},
         {"title": "The Host", "director": "Bong Joon-ho", "year": 2006, "mood": "", "desc": "This monster movie is a monster movie comeback", "poster": "https://xl.movieposterdb.com/06_10/2006/0468492/xl_137530_0468492_ae8cf565.jpg"},
@@ -119,11 +119,11 @@ $(document).ready(function() {
         {"title": "School of Rock", "director": "Richard Linklater", "year": 2003, "mood": "", "desc": "A burnt out rocker acts as a substitute and brings a whole new kind of class", "poster": "https://i.pinimg.com/564x/ed/28/ce/ed28cefbdfe5598b648bc56cb475c6b1.jpg"},
         {"title": "The White Tiger", "director": "Ramin Bahrani", "year": 2021, "mood": "", "desc": "You were looking for the key for years, but the door was always open.", "poster": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"},
 
-        {"title": "Fantastic Mr Fox", "director": "Wes Anderson", "year": 2009, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/71/0f/ee/710fee825456e4504517693ad2ffce61.jpg"},
-        {"title": "Castello Cavalcanti", "director": "Wes Anderson", "year": 2013, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/bf/47/da/bf47da964e7dece0c56dffe41c79e508.jpg"},
-        {"title": "Lighthouse", "director": "Robert Eggers", "year": 2019, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/e6/75/ce/e675ced7fb7cbadc8be0e645bed72655.jpg"},
-        {"title": "10 Things I Hate About You ", "director": "Gil Junger", "year": 1999, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/6d/43/86/6d4386d74c9f09e844ba45e78c6b22dc.jpg"},
-        {"title": "Dazed and Confused", "director": "Richard Linklater", "year": 1993, "mood": "", "desc": "", "poster": "https://i.pinimg.com/564x/af/0a/b7/af0ab7d53ffa660cdac6315fdeeba68b.jpg"},
+        {"title": "Fantastic Mr Fox", "director": "Wes Anderson", "year": 2009, "mood": "", "desc": "The foxes against the farmers", "poster": "https://i.pinimg.com/564x/71/0f/ee/710fee825456e4504517693ad2ffce61.jpg"},
+        {"title": "Castello Cavalcanti", "director": "Wes Anderson", "year": 2013, "mood": "", "desc": "Returning home", "poster": "https://i.pinimg.com/564x/bf/47/da/bf47da964e7dece0c56dffe41c79e508.jpg"},
+        {"title": "Lighthouse", "director": "Robert Eggers", "year": 2019, "mood": "", "desc": "Don't go up to the light", "poster": "https://i.pinimg.com/564x/e6/75/ce/e675ced7fb7cbadc8be0e645bed72655.jpg"},
+        {"title": "10 Things I Hate About You", "director": "Gil Junger", "year": 1999, "mood": "", "desc": "Cute rom com with happy ending", "poster": "https://i.pinimg.com/564x/6d/43/86/6d4386d74c9f09e844ba45e78c6b22dc.jpg"},
+        {"title": "Dazed and Confused", "director": "Richard Linklater", "year": 1993, "mood": "", "desc": "It's be a lot cooler if you did", "poster": "https://i.pinimg.com/564x/af/0a/b7/af0ab7d53ffa660cdac6315fdeeba68b.jpg"},
     ];
     
     // let shuffledMovieArray = shuffle;
