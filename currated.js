@@ -206,7 +206,7 @@ $(document).ready(function() {
         if (!$('#movie-container').hasClass('hidden')) {
             $('.movieList').empty();
             $('#pagination').removeClass('hidden')
-            populateMovieColumns();
+            populateMovieColumns(true);
         }
 
         $('#movie-container').removeClass('hidden');
