@@ -31,7 +31,7 @@ $(document).ready(function() {
         {"title": "Dunkirk", "director": "Christopher Nolan", "year": 2017, "type": "movie", "mood": "", "desc": "As though entering into the vision field of battle (most effective when seen on the big screen)", "poster": "https://xl.movieposterdb.com/20_07/2017/5013056/xl_5013056_01361c36.jpg"},
         {"title": "Hurt Locker", "director": "Kathryn Bigelow", "year": 2009, "type": "movie", "mood": "", "desc": "Amidst the ticking of a time bomb", "poster": "https://i.pinimg.com/564x/75/5c/f6/755cf6bafe3a5ba577b0522754a25fd7.jpg"},
         {"title": "Spirited Away", "director": "Hayao Miyazaki", "year": 2001, "type": "movie", "mood": "", "desc": "A girl must work at a bathhouse catered to spirits to save the human lives of her parents", "poster": "https://i.pinimg.com/564x/b7/b9/65/b7b9652068503773f52e903541433fde.jpg"},
-        {"title": "Castle in the Sky", "director": "Hayao Miyazaki", "year": 1986, "type": "movie", "mood": "", "desc": "A boy and a girl search to discover the truth behind a legend.", "poster": "https://i.pinimg.com/564x/94/0a/76/940a763f61c5541a2b11edfcc64d0bea.jpg"},
+        {"title": "Castle in the Sky", "director": "Hayao Miyazaki", "year": 1986, "type": "movie", "mood": "", "desc": "A boy and a girl discover the truth behind a legend.", "poster": "https://i.pinimg.com/564x/94/0a/76/940a763f61c5541a2b11edfcc64d0bea.jpg"},
         {"title": "Ghost in the Shell ", "director": "Mamoru Oshii", "year": 1995, "type": "movie", "mood": "", "desc": "And can you offer me proof of your existence?", "poster": "https://xl.movieposterdb.com/05_11/1995/0113568/xl_63110_0113568_6ee41d17.jpg"},
         {"title": "Ratatouille", "director": "Brad Bird", "year": 2007, "type": "movie", "mood": "", "desc": "A rat you'd love to eat... with", "poster": "https://xl.movieposterdb.com/09_04/2007/382932/xl_382932_81cf1703.jpg"},
         {"title": "Skins Rise", "director": "Jack Clough", "year": 2020, "type": "tv", "mood": "", "desc": "Skin's final season stands in stark contrast with the rest of the teenage drama (if any, watch Rise)", "poster": "https://i.imgur.com/oxf0TIF.jpg"},
@@ -61,10 +61,10 @@ $(document).ready(function() {
         {"title": "Rick and Morty", "director": "Justin Roiland, Dan Harmon", "year": 2013, "type": "movie", "mood": "", "desc": "Explore the multi-verse and get rickety wrecked", "poster": "https://i.pinimg.com/564x/55/20/94/5520948e7b480c015ee4461af969e25a.jpg"},
         {"title": "Twilight Zone", "director": "Rod Sterling", "year": 1959, "type": "movie", "mood": "", "desc": "By watching this, you're entering into another time and space, this TV show cannot be replaced. Thank you Rod Sterling ", "poster": "https://i.pinimg.com/564x/d1/34/45/d13445b1905d67a6ff021752f93276db.jpg"},
         {"title": "Breaking Bad", "director": "Vince Gilligan", "year": 2008, "type": "movie", "mood": "", "desc": "Fuck you, and your eyebrows, bitch", "poster": "https://xl.movieposterdb.com/12_08/2008/903747/xl_903747_c544a986.jpg"},
-        {"title": "Downtown Abbey", "director": "Julian Fellowes", "year": 2010, "type": "movie", "mood": "", "desc": "Like opening a dollhouse and seeing into every room. An Aristocratic household in time", "poster": "https://xl.movieposterdb.com/13_03/2010/1606375/xl_1606375_169a83a0.jpg"},
+        {"title": "Downtown Abbey", "director": "Julian Fellowes", "year": 2010, "type": "movie", "mood": "", "desc": "Like opening a dollhouse and peaking into every room. An Aristocratic household in time", "poster": "https://xl.movieposterdb.com/13_03/2010/1606375/xl_1606375_169a83a0.jpg"},
         {"title": "Back to the Future", "director": "Robert Zemeckis", "year": 1985, "type": "movie", "mood": "adventurous", "desc": "Traveling back in time only to accidently make it so that your parents never meet... Time is ticking", "poster": "https://xl.movieposterdb.com/09_09/1985/88763/xl_88763_325ddcc9.jpg"},
         {"title": "Bodyguard", "director": "Jed Mercurio", "year": 2018, "type": "movie", "mood": "", "desc": "A man trained to protect the Prime Minister, is framed as the villain", "poster": "https://i.pinimg.com/474x/f7/62/3d/f7623d2950a8a54357336cd33e7889f6.jpg"},
-        {"title": "Slumdog Millionaire", "director": "Danny Boyle", "year": 2008, "type": "movie", "mood": "", "desc": "A boy wins a million dollars on TV and is forced to prove his victory by recounting the events that led him to his answers", "poster": "https://i.pinimg.com/564x/9c/87/16/9c87162a635ce5d194bc011c5659751a.jpg"},
+        {"title": "Slumdog Millionaire", "director": "Danny Boyle", "year": 2008, "type": "movie", "mood": "", "desc": "A boy wins a million dollars and must prove his victory by recounting the events that led him to his answers", "poster": "https://i.pinimg.com/564x/9c/87/16/9c87162a635ce5d194bc011c5659751a.jpg"},
         {"title": "Deathnote", "director": "Tetsurō Araki", "year": 2006, "type": "movie", "mood": "", "desc": "A fight of reason and strategy between the good and the bad, a boy with immense power doesn't know which side he's on", "poster": "https://i.pinimg.com/564x/b1/8e/b1/b18eb104400d8b69fd9ec70ff4728ce6.jpg"},
         {"title": "Victoria", "director": "Sebastian Schipper", "year": 2015, "type": "movie", "mood": "", "desc": "Spiriling into a Berlin night for 2.5 hours straight", "poster": "https://i.pinimg.com/564x/44/d3/ed/44d3edb1610b718464b88cc9c8ed192d.jpg"},
         {"title": "Stand By Me", "director": "Rob Reiner", "year": 1986, "type": "movie", "mood": "", "desc": "To be young in life, and to learn of the proximity of death", "poster": "https://i.pinimg.com/564x/50/c8/72/50c87242b14442cfe485cc6faa07ac74.jpg"},
@@ -120,7 +120,7 @@ $(document).ready(function() {
         {"title": "The White Tiger", "director": "Ramin Bahrani", "year": 2021, "mood": "", "desc": "You were looking for the key for years, but the door was always open.", "poster": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"},
 
         {"title": "Fantastic Mr Fox", "director": "Wes Anderson", "year": 2009, "mood": "", "desc": "The foxes against the farmers", "poster": "https://i.pinimg.com/564x/71/0f/ee/710fee825456e4504517693ad2ffce61.jpg"},
-        {"title": "Castello Cavalcanti", "director": "Wes Anderson", "year": 2013, "mood": "", "desc": "Returning home", "poster": "https://i.pinimg.com/564x/bf/47/da/bf47da964e7dece0c56dffe41c79e508.jpg"},
+        {"title": "Castello Cavalcanti", "director": "Wes Anderson", "year": 2013, "mood": "", "desc": "Back to your ancestors", "poster": "https://i.pinimg.com/564x/bf/47/da/bf47da964e7dece0c56dffe41c79e508.jpg"},
         {"title": "Lighthouse", "director": "Robert Eggers", "year": 2019, "mood": "", "desc": "Don't go up to the light", "poster": "https://i.pinimg.com/564x/e6/75/ce/e675ced7fb7cbadc8be0e645bed72655.jpg"},
         {"title": "10 Things I Hate About You", "director": "Gil Junger", "year": 1999, "mood": "", "desc": "Cute rom com with happy ending", "poster": "https://i.pinimg.com/564x/6d/43/86/6d4386d74c9f09e844ba45e78c6b22dc.jpg"},
         {"title": "Dazed and Confused", "director": "Richard Linklater", "year": 1993, "mood": "", "desc": "It's be a lot cooler if you did", "poster": "https://i.pinimg.com/564x/af/0a/b7/af0ab7d53ffa660cdac6315fdeeba68b.jpg"},
@@ -161,6 +161,9 @@ $(document).ready(function() {
                 let movieTitleLowercase = tempMovieArray[0]['title'].charAt(0).toLowerCase() + tempMovieArray[0]['title'].slice(1);
                 let id = movieTitleLowercase.replace(/[.,\/#!$%'\^&\*;:{} =\-_`~()]/g,"")
                 $('.movieList'+movieColumns).append("<div class='movieCard'><div><span id='"+id+"Blurb' class='blurb'>"+ tempMovieArray[0]['desc'] +"</span></div><img id='"+ id +"' class='clickable moviePoster' src='"+ tempMovieArray[0]['poster'] +"'><div></div></div>");
+
+                posterInteraction(id, tempMovieArray[0]['title']);
+
                 tempMovieArray.shift();
                 moviesLoaded++;
             }
@@ -170,8 +173,9 @@ $(document).ready(function() {
             $('#movie-container').removeClass('hidden');
         }
 
-        posterInteraction();
     }
+
+    populateMovieColumns(true);
 
     function increaseMovieColumns() {
         let moviesLoaded = 0;
@@ -180,6 +184,9 @@ $(document).ready(function() {
                 let movieTitleLowercase = tempMovieArray[0]['title'].charAt(0).toLowerCase() + tempMovieArray[0]['title'].slice(1);
                 let id = movieTitleLowercase.replace(/[.,\/#!$%'\^&\*;:{} =\-_`~()]/g,"")
                 $('.movieList'+movieColumns).append("<div class='movieCard'><div><span id='"+id+"Blurb' class='blurb'>"+ tempMovieArray[0]['desc'] +"</span></div><img id='"+ id +"' class='clickable moviePoster' src='"+ tempMovieArray[0]['poster'] +"'><div></div></div>");
+
+                posterInteraction(id, tempMovieArray[0]['title']);
+
                 tempMovieArray.shift();
                 moviesLoaded++;
             }
@@ -187,11 +194,7 @@ $(document).ready(function() {
         if (moviesLoaded = 15) {
             $('#movie-container').removeClass('hidden');
         }
-
-        posterInteraction();
     }
-
-    populateMovieColumns(true);
 
     $('#pagination').click(() => {
         increaseMovieColumns();
@@ -203,7 +206,7 @@ $(document).ready(function() {
         if (!$('#movie-container').hasClass('hidden')) {
             $('.movieList').empty();
             $('#pagination').removeClass('hidden')
-            populateMovieColumns(true);
+            populateMovieColumns();
         }
 
         $('#movie-container').removeClass('hidden');
@@ -219,41 +222,32 @@ $(document).ready(function() {
             $('#random-movie-container').empty();
             let randomMovie = movieArray[Math.floor(Math.random() * movieArray.length)];
             let movieTitleLowercase = randomMovie['title'].charAt(0).toLowerCase() + randomMovie['title'].slice(1);
-            randomId = movieTitleLowercase.replace(/[.,\/#!$%'\^&\*;:{} =\-_`~()]/g,"")
+            randomId = movieTitleLowercase.replace(/[.,\/#!$%'\^&\*;:{} =\-_`~()]/g,"") + 'Random';
             $('#movie-container').addClass('hidden');
             $('#pagination').addClass("hidden");
             $('#random-movie-container').append("<div class='movieCard'><div><span id='"+randomId+"Blurb' class='blurb'>"+ randomMovie['desc'] +"</span></div><img id='"+ randomId +"' class='clickable moviePoster' src='"+ randomMovie['poster'] +"'><div></div></div>");
 
-            posterInteraction();
+            posterInteraction(randomId, randomMovie['title']);
 
         }, 1000);
     })
 
-    if (randomId !== '') {
-        $('#'+randomId).hover(function() {
-            console.log("hello")
-            $('#'+randomId).toggleClass('blurred');
-            $('#'+randomId+"Blurb").toggleClass('visible')
-        })
-    }
+    // if (randomId !== '') {
+    //     $('#'+randomId).hover(function() {
+    //         console.log("hello")
+    //         $('#'+randomId).toggleClass('blurred');
+    //         $('#'+randomId+"Blurb").toggleClass('visible')
+    //     })
+    // }
 
     // Interacting with movie cards 
-    function posterInteraction() {
-        $('.clickable').hover(function() {
-            let id = $(this).attr('id');
+    function posterInteraction(id, title) {
+        $('#'+id).hover(function() {
             $('#'+id).toggleClass('blurred');
             $('#'+id+"Blurb").toggleClass('visible')
         })
-        $('.clickable').dblclick(function() {
-            let id = $(this).attr('id');
-            let src = $('#'+id).attr('src');
-    
-            // Get movie title via src 
-            movieArray.forEach(movie => {
-                if (movie['poster'] == src) {
-                    window.open('https://www.google.com/search?q='+movie['title']+'', '_blank');
-                }
-            });
+        $('#'+id).dblclick(function() {
+            window.open('https://www.google.com/search?q='+title+'', '_blank');
         })
     }
 
